@@ -1,0 +1,1 @@
+spring batch spring批理处理job架框http://www.jianshu.com/p/6f038c1f6037  可用于非即时的大量云计算处理
